@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: 'Rancho', cursive;
+    font-size:20px;
+    background-color:black;
+    color:white;
+  /*  text-shadow:2px 2px 10px  gold;*/
+}
+nav{
+      margin:0 auto;
+}
+nav li{
+  float:right;
+}
+nav a:link, nav a:visited{
+	font-size:1.5em;
+  /*  text-shadow:3px 4px 1px ;*/
+}
+nav a:hover{
+    color:blue;
+    
+}
+nav a{
+    display:block;
+    text-align:center;
+    text-decoration: underline;
+}
+#me{
+    padding-top:40px;
+}
+img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
