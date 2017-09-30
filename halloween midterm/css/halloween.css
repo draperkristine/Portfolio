@@ -1,0 +1,21 @@
+body{
+	background-color:#000000;
+	line-height:1.5em;
+	font-family:'Nothing You Could Do', cursive;
+	font-size:24px;
+}
+p{
+	color:white;
+}
+footer{
+	bottom:-400px;
+	position:relative;
+	font-color:#9E3706;
+}
+h6{
+	color:#9E3706;
+	font-size:12px;
+}
+iframe{
+	padding-left:10px;
+}

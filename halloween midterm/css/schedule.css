@@ -1,0 +1,12 @@
+body{
+	background: url(../images/witch.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size:  cover;
+	font-family:'Caveat', cursive;
+	color:#FCBF51;
+	font-size:24px;
+}
+.lineup{
+	padding-bottom:1500px;
+	}

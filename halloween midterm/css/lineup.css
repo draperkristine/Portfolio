@@ -1,0 +1,12 @@
+body{
+	background: url(../images/creepy.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size:  cover;
+	background-color:#AD6804;
+}
+
+background-size:  cover;
+font-family: 'Caveat', cursive;
+font-size:24px;
+}
