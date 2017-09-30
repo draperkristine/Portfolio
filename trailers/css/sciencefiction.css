@@ -1,0 +1,39 @@
+body {
+	background-image: url(../images/aliens.jpg);
+	background-repeat: no-repeat;
+	font-family: times;
+	color: gray;
+	background-color: black;
+	text-align:  center ;
+}
+
+#menu{
+	color:gray;
+	z-index: 10;
+	position: absolute;
+	top: 1400px;s
+	right:700px;
+}
+iframe {
+	position: absolute;
+	
+	left:50px;
+}
+#residentevil{
+	position: absolute;
+	
+	left:700px;
+}
+#rosered {
+	position: absolute;
+	
+	left:1300px;
+}
+#vid {position:absolute;
+	top: 1000px;
+	z-index: 5;}
+a {
+	color:green;
+}
+
+}

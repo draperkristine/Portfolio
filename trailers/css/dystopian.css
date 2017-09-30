@@ -1,0 +1,21 @@
+body {
+	background-color:#1F042B;
+	color:#4A4C4C;
+}
+a{
+	color:#4A4C4C;
+}
+#cinder{
+	position:relative;
+	z-index:-1;
+}
+video {
+	position:absolute;
+	left: 750px;
+
+}
+iframe {
+	position:absolute;
+	bottom:-490px;
+	left:1050px;
+}
